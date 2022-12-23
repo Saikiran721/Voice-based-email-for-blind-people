@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Email</string>
+    <string name="title_home">Inbox</string>
+    <string name="title_dashboard">Sent</string>
+    <string name="title_notifications">Stared</string>
+    <string name="title_droft">Draft</string>
+</resources>
